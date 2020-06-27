@@ -1,0 +1,70 @@
+
+
+
+::selection {
+	background: white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+header {
+	background-color: #8b0000;
+	height: 150px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+p {
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+}
+
+/*all the nav stuff */
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2e2e2e;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #1c1c1c;
+}
+
+/*background and body style*/
+body {
+	background-color: #e6f0f1;
+}
+main{
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: white;
+	padding: 20px;
+}
+
+/*All tables */
+table {
+	border:1px solid black;
+	
+}
